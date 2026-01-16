@@ -1,0 +1,7 @@
+.largefont, .largefont p{font-size:16px;}
+.attorney-lite-notice-container{width:100%; padding:15px 0 15px 0;}
+.attorney-lite-notice-img{float:left; text-align:left; width:13%;}
+.attorney-lite-notice-content{float:left; text-align:left; width:85%; padding-top:33px;}
+.attorney-lite-notice-heading{font-size:20px; font-weight:600;}
+.attorney-lite-clear{clear:both;}
+#accordion-section-example_1 .accordion-section-title:after{display:none; visibility:hidden;}
